@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+}
+h3{
+    padding: 8px;
+    
+}
+img{
+    width: 1500px;
+    height: 500px;
+    z-index: auto;
+}
+.yo{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.yu{
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+}
+p{
+    margin-left: 1000px;
+    margin-bottom: 200px;
+}
+.ip{
+    margin-left: 250px; 
+    display: flex;  
+}
